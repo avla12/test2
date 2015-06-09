@@ -4,5 +4,6 @@
     <string name="app_name">T2</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="hello_world">Hello world!</string>
+    <string name="fix_east">Fix_east from Alpha</string>
 
 </resources>
