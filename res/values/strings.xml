@@ -5,5 +5,6 @@
     <string name="title_activity_main">MainActivity</string>
     <string name="hello_world">Hello world!</string>
     <string name="fix_east">Fix_east from Alpha</string>
+    <string name="t2_title_change_cindy">T2 Title changed by cindy</string>
 
 </resources>
